@@ -34,7 +34,7 @@ Here are snapshots of the 'Application Migrations' page, which is probably the m
 ![ScreenShot](snapshots/code_migrations1.PNG)
 
 ![ScreenShot](snapshots/code_migrations2.PNG)
-\
+
 ![ScreenShot](snapshots/code_migrations3.PNG)
 
 ![ScreenShot](snapshots/code_migrations4.PNG)
