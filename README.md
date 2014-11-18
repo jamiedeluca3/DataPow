@@ -13,7 +13,7 @@ Here is a snapshot of the 'Resource Utlization' page. The memory and cpu resourc
 
 ![ScreenShot](snapshots/resource_utilization.PNG)
 
-Here are snapshots of the 'Service Probes' page. Enable debug service probes on multiple devices quickly and easily within DataPow.
+Here are snapshots of the 'Service Probes' page. Enable and disable debug service probes on multiple devices quickly and easily within DataPow.
 
 ![ScreenShot](snapshots/service_probes1.PNG)
 ![ScreenShot](snapshots/service_probes2.PNG)
