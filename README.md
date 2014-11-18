@@ -16,7 +16,9 @@ Here is a snapshot of the 'Resource Utlization' page. The memory and cpu resourc
 Here are snapshots of the 'Service Probes' page. Enable and disable debug service probes on multiple devices quickly and easily within DataPow.
 
 ![ScreenShot](snapshots/service_probes1.PNG)
+
 ![ScreenShot](snapshots/service_probes2.PNG)
+
 ![ScreenShot](snapshots/service_probes3.PNG)
 
 Here is a snapshot of the 'TCP Connection Test' page. DataPower administrators often get asked to perform TCP connection tests from DataPower to determine if remote hosts / ports are open and to validate network connectivity. With DataPow, it is so simple. No more logging into every device and running TCP connection tests manually. Allow the application teams or someone else to run the tests themselves from a centralized console.
@@ -30,6 +32,15 @@ Here are snapshots of the 'Application Info' page. Get a birds eye view of appli
 Here are snapshots of the 'Application Migrations' page, which is probably the most powerful feature of DataPow. Use a form to select your application inputs and which infrastructure to deploy your app to. Migrate services, files, flush xml managers, restart services after deployment, etc (AAA policy migrations to come). There are also API's built to integrate with enterprise code migration solutions too. Allow migrations directly to IT within DataPow and integrate DataPow code migrations to higher environments via API's. Check it out!
 
 ![ScreenShot](snapshots/code_migrations1.PNG)
-![ScreenShot](snapshots/code_migrations1.PNG)
-![ScreenShot](snapshots/code_migrations1.PNG)
-![ScreenShot](snapshots/code_migrations1.PNG)
+
+![ScreenShot](snapshots/code_migrations2.PNG)
+\
+![ScreenShot](snapshots/code_migrations3.PNG)
+
+![ScreenShot](snapshots/code_migrations4.PNG)
+
+![ScreenShot](snapshots/code_migrations5.PNG)
+
+![ScreenShot](snapshots/code_migrations6.PNG)
+
+![ScreenShot](snapshots/code_migrations7.PNG)
