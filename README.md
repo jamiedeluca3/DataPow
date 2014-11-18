@@ -10,3 +10,5 @@ Here is a snapshot of the 'hosts' page. Hostnames and serial numbers are blanked
 ![ScreenShot](snapshots/hosts2.PNG)
 
 Here are snapshots of the 'Resource Utlization' page. The memory and cpu resources are captured and written to a database via a cron job and displayed to the page. The intervals allow you to specify minute (up to 24 hours), 10 minute (up to 2 weeks), and hourly (up to 2 months). This is useful for capacity planning, load testing, and root cause analysis.
+
+![ScreenShot](snapshots/resource_utilization.PNG)
