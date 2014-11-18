@@ -27,3 +27,9 @@ Here are snapshots of the 'Application Info' page. Get a birds eye view of appli
 
 ![ScreenShot](snapshots/application_info1.PNG)
 
+Here are snapshots of the 'Application Migrations' page, which is probably the most powerful feature of DataPow. Use a form to select your application inputs and which infrastructure to deploy your app to. Migrate services, files, flush xml managers, restart services after deployment, etc (AAA policy migrations to come). There are also API's built to integrate with enterprise code migration solutions too. Allow migrations directly to IT within DataPow and integrate DataPow code migrations to higher environments via API's. Check it out!
+
+![ScreenShot](snapshots/code_migrations1.PNG)
+![ScreenShot](snapshots/code_migrations1.PNG)
+![ScreenShot](snapshots/code_migrations1.PNG)
+![ScreenShot](snapshots/code_migrations1.PNG)
