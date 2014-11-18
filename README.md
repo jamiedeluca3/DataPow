@@ -23,3 +23,7 @@ Here is a snapshot of the 'TCP Connection Test' page. DataPower administrators o
 
 ![ScreenShot](snapshots/tcp_connection_test1.PNG)
 
+Here are snapshots of the 'Application Info' page. Get a birds eye view of application foot prints in DataPower.
+
+![ScreenShot](snapshots/application_info1.PNG)
+
